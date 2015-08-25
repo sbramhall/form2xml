@@ -1,0 +1,34 @@
+{
+	"author": "Susan Bramhall",
+	"description": "NW app to collect data in form and write XML",
+	"folders":
+	[
+		{
+			"path": "/Users/sbramhall/PhpstormProjects/form2xml"
+		}
+	],
+	"keywords":
+	[
+		"node",
+		"webkit",
+		"win",
+		"osx"
+	],
+	"license": "MIT",
+	"main": "index.html",
+	"name": "form2xml",
+	"private": true,
+	"version": "0.0.1",
+	"window":
+	{
+		"height": 600,
+		"max_height": 600,
+		"max_width": 1000,
+		"min_height": 400,
+		"min_width": 600,
+		"position": "center",
+		"resizable": false,
+		"toolbar": true,
+		"width": 1000
+	}
+}
